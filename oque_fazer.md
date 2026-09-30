@@ -69,12 +69,12 @@ Uma empresa deseja publicar uma página institucional temporária.
 
 | Critério                               | Sim | Não |
 | -------------------------------------- | :-: | :-: |
-| Utilizou `h1` corretamente             |  ☐  |  ☐  |
-| Estruturou os títulos hierarquicamente |  ☐  |  ☐  |
-| Criou parágrafos organizados           |  ☐  |  ☐  |
-| Utilizou listas corretamente           |  ☐  |  ☐  |
-| Criou links funcionais                 |  ☐  |  ☐  |
-| Organizou o conteúdo de forma lógica   |  ☐  |  ☐  |
+| Utilizou `h1` corretamente             |  ☑  |  ☐  |
+| Estruturou os títulos hierarquicamente |  ☑  |  ☐  |
+| Criou parágrafos organizados           |  ☑  |  ☐  |
+| Utilizou listas corretamente           |  ☑  |  ☐  |
+| Criou links funcionais                 |  ☑  |  ☐  |
+| Organizou o conteúdo de forma lógica   |  ☑  |  ☐  |
 
 ---
 
@@ -94,3 +94,5 @@ Os alunos analisarão o trabalho de outro colega, observando:
 ### Pergunta norteadora
 
 > Um visitante conseguiria localizar rapidamente as informações da minha página?
+
+Sim. As páginas têm títulos claros e seções organizadas. As listas facilitam a leitura, e os links permitem acessar meu GitHub e o contato do SENAI.
